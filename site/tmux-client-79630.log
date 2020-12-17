@@ -1,0 +1,68 @@
+1608166707.137143 client started (79630): version 3.1b, socket /tmp//tmux-501/default, protocol 8
+1608166707.137190 on Darwin 20.1.0 Darwin Kernel Version 20.1.0: Sat Oct 31 00:07:11 PDT 2020; root:xnu-7195.50.7~2/RELEASE_X86_64; libevent 2.1.12-stable (select)
+1608166707.137225 socket is /tmp//tmux-501/default
+1608166707.137246 trying connect
+1608166707.137280 connect failed: No such file or directory
+1608166707.137468 lock file is /tmp//tmux-501/default.lock
+1608166707.137556 flock succeeded
+1608166707.137564 got lock (6)
+1608166707.137574 trying connect
+1608166707.137596 connect failed: No such file or directory
+1608166707.138107 add peer 0x7fae68048000: 7 (0x0)
+1608166707.139547 sending message 100 to peer 0x7fae68048000 (4 bytes)
+1608166707.139581 sending message 101 to peer 0x7fae68048000 (15 bytes)
+1608166707.139597 sending message 102 to peer 0x7fae68048000 (13 bytes)
+1608166707.139613 sending message 108 to peer 0x7fae68048000 (46 bytes)
+1608166707.139640 sending message 104 to peer 0x7fae68048000 (0 bytes)
+1608166707.139655 sending message 107 to peer 0x7fae68048000 (4 bytes)
+1608166707.139667 sending message 105 to peer 0x7fae68048000 (20 bytes)
+1608166707.139682 sending message 105 to peer 0x7fae68048000 (23 bytes)
+1608166707.139697 sending message 105 to peer 0x7fae68048000 (20 bytes)
+1608166707.139712 sending message 105 to peer 0x7fae68048000 (16 bytes)
+1608166707.139729 sending message 105 to peer 0x7fae68048000 (57 bytes)
+1608166707.139742 sending message 105 to peer 0x7fae68048000 (14 bytes)
+1608166707.139753 sending message 105 to peer 0x7fae68048000 (30 bytes)
+1608166707.139764 sending message 105 to peer 0x7fae68048000 (27 bytes)
+1608166707.139770 sending message 105 to peer 0x7fae68048000 (48 bytes)
+1608166707.139781 sending message 105 to peer 0x7fae68048000 (60 bytes)
+1608166707.139794 sending message 105 to peer 0x7fae68048000 (11 bytes)
+1608166707.139806 sending message 105 to peer 0x7fae68048000 (22 bytes)
+1608166707.139818 sending message 105 to peer 0x7fae68048000 (43 bytes)
+1608166707.139831 sending message 105 to peer 0x7fae68048000 (66 bytes)
+1608166707.139845 sending message 105 to peer 0x7fae68048000 (32 bytes)
+1608166707.139879 sending message 105 to peer 0x7fae68048000 (11 bytes)
+1608166707.139893 sending message 105 to peer 0x7fae68048000 (211 bytes)
+1608166707.139905 sending message 105 to peer 0x7fae68048000 (36 bytes)
+1608166707.139916 sending message 105 to peer 0x7fae68048000 (43 bytes)
+1608166707.139927 sending message 105 to peer 0x7fae68048000 (50 bytes)
+1608166707.139938 sending message 105 to peer 0x7fae68048000 (74 bytes)
+1608166707.139961 sending message 105 to peer 0x7fae68048000 (11 bytes)
+1608166707.139972 sending message 105 to peer 0x7fae68048000 (17 bytes)
+1608166707.139983 sending message 105 to peer 0x7fae68048000 (22 bytes)
+1608166707.139999 sending message 105 to peer 0x7fae68048000 (14 bytes)
+1608166707.140010 sending message 105 to peer 0x7fae68048000 (179 bytes)
+1608166707.140018 sending message 105 to peer 0x7fae68048000 (26 bytes)
+1608166707.140027 sending message 105 to peer 0x7fae68048000 (168 bytes)
+1608166707.140038 sending message 105 to peer 0x7fae68048000 (7 bytes)
+1608166707.140050 sending message 105 to peer 0x7fae68048000 (19 bytes)
+1608166707.140060 sending message 105 to peer 0x7fae68048000 (8 bytes)
+1608166707.140073 sending message 105 to peer 0x7fae68048000 (18 bytes)
+1608166707.140081 sending message 105 to peer 0x7fae68048000 (15 bytes)
+1608166707.140093 sending message 105 to peer 0x7fae68048000 (26 bytes)
+1608166707.140102 sending message 105 to peer 0x7fae68048000 (214 bytes)
+1608166707.140113 sending message 105 to peer 0x7fae68048000 (61 bytes)
+1608166707.140122 sending message 105 to peer 0x7fae68048000 (51 bytes)
+1608166707.140134 sending message 105 to peer 0x7fae68048000 (14 bytes)
+1608166707.140144 sending message 105 to peer 0x7fae68048000 (23 bytes)
+1608166707.140153 sending message 105 to peer 0x7fae68048000 (19 bytes)
+1608166707.140173 sending message 105 to peer 0x7fae68048000 (20 bytes)
+1608166707.140188 sending message 105 to peer 0x7fae68048000 (21 bytes)
+1608166707.140244 sending message 106 to peer 0x7fae68048000 (0 bytes)
+1608166707.140257 sending message 200 to peer 0x7fae68048000 (4 bytes)
+1608166707.140269 client loop enter
+1608166707.198843 peer 0x7fae68048000 message 207
+1608166707.198863 sending message 208 to peer 0x7fae68048000 (0 bytes)
+1608166710.594833 peer 0x7fae68048000 message 203
+1608166710.594870 sending message 205 to peer 0x7fae68048000 (0 bytes)
+1608166710.595075 peer 0x7fae68048000 message 204
+1608166710.595088 client loop exit
